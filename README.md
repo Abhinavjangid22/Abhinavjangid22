@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Abhinavjangid22&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -282,18 +282,18 @@ A personal finance analytics system that identifies spending patterns using Pand
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=E5E7EB" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhinavjangid22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=E5E7EB" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavjangid22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
 
 <br/>
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Abhinavjangid22&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" />
 
 <br/>
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=38BDF8&point=F59E0B&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavjangid22&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=38BDF8&point=F59E0B&area=true" />
 
 </div>
 
@@ -327,8 +327,8 @@ A personal finance analytics system that identifies spending patterns using Pand
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Abhinavjangid22">
+  <img src="https://img.shields.io/badge/GitHub-Abhinavjangid22-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL_ADDRESS">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
