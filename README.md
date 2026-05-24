@@ -321,7 +321,7 @@ A personal finance analytics system that identifies spending patterns using Pand
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/abhinav-jangid22/">
   <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Jangid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="YOUR_PORTFOLIO_URL">
@@ -330,7 +330,7 @@ A personal finance analytics system that identifies spending patterns using Pand
 <a href="https://github.com/Abhinavjangid22">
   <img src="https://img.shields.io/badge/GitHub-Abhinavjangid22-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:jangidabhinav2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
